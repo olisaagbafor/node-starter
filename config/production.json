@@ -1,0 +1,11 @@
+{
+    "name" : "Genre App - Production",
+    "description" : "Genre App - Production",
+    "author" : "Olisa Agbafor",
+    "version" : "1.0",
+    "mail": {
+        "host" : "prod-mail-server",
+        "port" : 25,
+        "username" : "prod-mail-user"
+    }
+}

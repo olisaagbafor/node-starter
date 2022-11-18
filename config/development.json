@@ -1,0 +1,11 @@
+{
+    "name" : "Genre App - Development",
+    "description" : "Genre App - Development",
+    "author" : "Olisa Agbafor",
+    "version" : "1.0",
+    "mail": {
+        "host" : "dev-mail-server",
+        "port" : 25,
+        "username" : "dev-mail-user"
+    }
+}
